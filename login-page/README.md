@@ -4,7 +4,7 @@ A modern and responsive login page built with HTML and CSS.
 
 ## Preview
 
-![Login Page Preview](./preview.jpg)
+![Login Page Preview](./preview.png)
 
 ## Features
 
